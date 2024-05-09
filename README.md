@@ -1,13 +1,12 @@
-GERRY L. 
-SOFTWARE DEVELOPMENT 
-CEN-3024C-33022
+Gerry L.     
+Software Development 
+CEN-3024c-33022
 
-THIS PROGRAM UTILIZES MULTI-THREADING TO SIMULATE TWO VENDOR PURCHASES OF PRODUCTS AVAILABLE WITHIN A WAREHOUSE. THE PURCHASED AMOUNT AND PRODUCT ARE RANDOMIZED AND UPDATED THROUGH MYSQL TO A DATABASE THAT CONTAINS THE STORED INFORMATION. THE INFORMATION IS THEN DISPLAYED AFTER PURCHASE TO SHOW REMAINING INVENTORY. THIS PROJECT INCLUDES CONCEPTS OF POLYMORPHISM, MULTI-THREADING, AND DATABASE CONNECTIVITY INCLUDING CONNECTIONS, STATEMENTS, AND PREPARED STATEMENTS FOR QUERYING THE MYSQL DATABASE.  
+This program utilizes multi-threading to simulate two vendor purchases of products available within a warehouse. The purchased amount and product are randomized and updated through MySQL to a database that contains the stored information. The information is then displayed after the purchase to show the remaining inventory. This project includes concepts of Polymorphism, Multi-Threading, and database connectivity including connections, statements, and prepared statements for querying the MySQL database.  
 
-THE OUTPUT WILL BE PROVIDED IN THE TERMINAL AND WILL CONSIST OF THE PURCHASES MADE BY THE THREADS AND THE AVAILABLE PRODUCT AFTER THE UPDATE.
+the output will be provided in the terminal and consists of the purchases made by the threads and the available product after the update.
 
 
-CONNECTION REQUIRES MYSQL-CONNECTOR-J-8.3.0.JAR OR HIGHER
-
+connection requires mysql-connector-j-8.3.0.jar or higher
 
 
