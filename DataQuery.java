@@ -15,8 +15,7 @@ public class DataQuery {
 
         try {
 
-            Connection connection = DriverManager.getConnection("jdbc:mysql://localhost:3306/projectdb", "root",
-                    "Whitehot2005!");
+            Connection connection = DriverManager.getConnection("jdbc:mysql://localhost:3306/projectdb");
             String query = "INSERT INTO projects (projectName, managerName, numOfDevelopers) " + "VALUES(?, ?, ?)";
             PreparedStatement statement = connection.prepareStatement(query);
             // create table
